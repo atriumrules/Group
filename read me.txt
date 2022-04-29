@@ -1,0 +1,1 @@
+python finder.py --workers 16 --proxy-file proxies.txt -u https://ptb.discord.com/api/webhooks/967568936885452861/HjeVL916V4fXqiA9KgRzPQAhvKfwbw1MiX2mgABl4-piKphhmyF7F8f5rVHn45V6-jDk
